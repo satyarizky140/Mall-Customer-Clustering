@@ -1,1 +1,1 @@
-# Mall-Customer-Clustering
+# Mall-Customer-Segmentation
